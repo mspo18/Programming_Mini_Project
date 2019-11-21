@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\mthyk\source\repos\ClientMiniproject19\ClientMiniproject19\Client.cpp(10,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  ClientMiniproject19.vcxproj -> C:\Users\mthyk\source\repos\ClientMiniproject19\Debug\ClientMiniproject19.exe
